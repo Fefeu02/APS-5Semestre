@@ -1,0 +1,11 @@
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\bin\Release\ChatServidor.exe.config
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\bin\Release\ChatServidor.exe
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\bin\Release\ChatServidor.pdb
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.Form1.resources
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.exe
+C:\Users\Administrator\Downloads\Chat\ChatServidor\ChatServidor\obj\x86\Release\ChatServidor.pdb
